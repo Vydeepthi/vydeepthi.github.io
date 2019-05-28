@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Summer 2019 Blog</title>
+    <link>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/</link>
+    <description>Recent content in Tags on Summer 2019 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    
+	<atom:link href="https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>development</title>
+      <link>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

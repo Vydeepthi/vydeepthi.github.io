@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/categories/development/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/post/hello/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/development/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/go/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/categories/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/templates/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Vydeepthi/vydeepthi.github.io.git/tags/themes/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
