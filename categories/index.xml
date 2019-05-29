@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Summer 2019 Blog</title>
-    <link>https://github.com/Vydeepthi/vydeepthi.github.io.git/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Summer 2019 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>
     
-	<atom:link href="https://github.com/Vydeepthi/vydeepthi.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://github.com/Vydeepthi/vydeepthi.github.io.git/categories/development/</link>
+      <link>/categories/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Vydeepthi/vydeepthi.github.io.git/categories/development/</guid>
+      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://github.com/Vydeepthi/vydeepthi.github.io.git/categories/golang/</link>
+      <link>/categories/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Vydeepthi/vydeepthi.github.io.git/categories/golang/</guid>
+      <guid>/categories/golang/</guid>
       <description></description>
     </item>
     
